@@ -19,10 +19,13 @@ I am open to discuss any research ideas, collaborations, and job opportunities! 
 🎉 News
 ------
 * [12/2023] One paper [Sketch2Stress](https://dengyuhk.github.io/Sketch2Stress/) was accepted by **IEEE TVCG**.
-* [09/2023] I was awarded "Outstanding Academic Performance Award" by CityU.
+* [09/2023] I was awarded "Outstanding Academic Performance Award 2023" by CityU.
 * [01/2023] One paper [ProObjAR](https://sweb.cityu.edu.hk/hongbofu/doc/ProObjAR_CHI2023.pdf) was accepted by **CHI 2023**.
+* [09/2022] I was awarded "Research Tuition Scholarship 2022" by CityU.
 * [08/2022] Our paper [DifferSketching](https://chufengxiao.github.io/DifferSketching/) was accepted by **SIGGRAPH Asia 2022** and published in **ACM TOG**.
 * [08/2022] I was awarded "[Style3D Graphics Graduate Fellowship 2022](https://www.linctex.com/aboutus/fellowship)" by Style3D.
+* [04/2022] I visited [ICGL Lab](http://igcl.pku.edu.cn/igcl/), Peking University, supervised by [Prof. Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/).
+* [09/2021] I was awarded "Research Tuition Scholarship 2021" by CityU.
 * [08/2021] Our paper [SketchHairSalon](https://chufengxiao.github.io/SketchHairSalon/) was accepted by **SIGGRAPH Asia 2021** and published in **ACM TOG**.
 
 <br/>
