@@ -49,6 +49,9 @@
         width: 100%; /* Full width for small screens */
         max-width: none; /* Remove max-width constraint */
     }
+    .pub div{
+        padding-left: 0;
+    }
     .pub p {
         padding-left: 0; /* Remove left padding */
     }
