@@ -88,7 +88,7 @@ author_profile: true
       <p>
         <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580750">[Paper]</a>
         <a href="https://www.youtube.com/watch?v=YnkOdbIkooc">[Video]</a>
-        <a href="https://www.youtube.com/watch?v=Fh4N6mBAQuQ">[Video]</a>
+        <a href="https://www.youtube.com/watch?v=Fh4N6mBAQuQ">[Preview]</a>
       </p>
     </div>
 </div>
