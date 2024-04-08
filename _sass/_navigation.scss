@@ -184,7 +184,7 @@
     color: $masthead-link-color;
     text-decoration: none;
 
-    &:hover {
+    &:hover,.active {
       color: $masthead-link-color-hover;
     }
   }
@@ -226,7 +226,7 @@
     a {
       position: relative;
 
-      &:before {
+      &:before,.active {
         content: "";
         position: absolute;
         left: 0;
