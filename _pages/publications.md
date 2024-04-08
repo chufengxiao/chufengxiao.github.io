@@ -47,6 +47,7 @@ author_profile: true
         <a href="https://chufengxiao.github.io/SketchHairSalon/">[Project]</a>
         <a href="https://github.com/chufengxiao/SketchHairSalon">[Code]</a>
         <a href="https://github.com/chufengxiao/SketchHairSalon?tab=readme-ov-file#Dataset">[dataset]</a>
+        <a href="https://mp.weixin.qq.com/s/LrH_VbTiHd3aPP3sFnhyGA">[新智元]</a>
       </p>
     </div>
 </div>
