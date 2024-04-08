@@ -83,7 +83,7 @@ author_profile: true
     <img src="/images/proobjar.png">
     <div>
       <p class="title">ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD</p>
-      <p>Hui Ye, Jiaye Leng, <b>Chufeng Xiao</b>, Lili Wang, Hongbo Fu</p>
+      <p><a href="https://huiye19.github.io/">Hui Ye</a>, Jiaye Leng, <b>Chufeng Xiao</b>, Lili Wang, Hongbo Fu</p>
       <p class="venue">Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI 2023</b>)</p>
       <p>
         <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580750">[Paper]</a>
