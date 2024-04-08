@@ -13,7 +13,7 @@ Prior to this, I obtained my B.E. degree from School of Computer Science and Eng
 My research interests include **Computer Graphics** (CG) and **Human-computer Interaction** (HCI). Specifically, I mainly focus on **controllable AIGC**, striving to create a interactive CG system for content generation and manipulation which can be controlled by users. My research has been featured in top-tier conferences and journals, including *SIGGRAPH (Asia), ACM TOG, IEEE TVCG, ACM CHI, IEEE TMM, CGF,* etc. Recently, my research works include sketch-based image synthesis and editing, and sketch-based 3D reconstruction. Please refer to my [publication page](https://chufengxiao.github.io/publications/) for more details. 
 
 I am open to discuss any research ideas, collaborations, and job opportunities! You may reach me at \
-✉️ Email: <chufengxiao@outlook.com> \
+✉️ Email: chufengxiao[at]outlook[dot]com \
 🏤 Address: Level 6, Run Run Shaw Creative Media Centre, 18 Tat Hong Avenue, Kowloon, Hong Kong
 
 🎉 News
