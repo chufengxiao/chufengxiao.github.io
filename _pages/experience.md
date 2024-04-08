@@ -12,7 +12,7 @@ author_profile: true
 Research Assistant (Sep. 2023 \- Present) \
 Advisor: [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
   
-- **Wangxuan Institute of Computer Technology (WICT), Peking University (PKU)** \
+- **[Intelligent Graphic Computing Laboratory (IGCL)](http://igcl.pku.edu.cn/igcl/), WICT, Peking University** \
   Visiting Student (Apr. 2022 - Jul. 2022) \
   Advisor: [Prof. Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/) & [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
 
