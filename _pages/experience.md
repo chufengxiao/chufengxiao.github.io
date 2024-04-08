@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* **School of Creative Media, City University of Hong Kong (CityU)** \
+* **School of Creative Media, City University of Hong Kong** \
 Research Assistant (Sep. 2023 \- Present) \
 Advisor: [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
   
@@ -16,7 +16,7 @@ Advisor: [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
   Visiting Student (Apr. 2022 - Jul. 2022) \
   Advisor: [Prof. Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/) & [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
 
-- **School of Computer Science and Engineering, South China University of Technology (SCUT)** \
+- **School of Computer Science and Engineering, South China University of Technology** \
   Research Assistant (Dec. 2017 - May. 2018) \
   Advisor: [Prof. Shengfeng He](http://www.shengfenghe.com/)
 
