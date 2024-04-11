@@ -16,7 +16,7 @@ author_profile: true
       <p><b>Chufeng Xiao</b> and Hongbo Fu</p>
       <p class="venue">Arxiv Preprint, 2024</p>
       <p>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3550454.3555493">[Paper]</a>
+        <a href="https://arxiv.org/abs/2402.17624">[Paper]</a>
       </p>
     </div>
 </div>
