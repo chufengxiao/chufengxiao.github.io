@@ -16,7 +16,6 @@ author_profile: true
       <p>Jie Zhou, <b>Chufeng Xiao</b>, Miu-Ling Lam, and Hongbo Fu</p>
       <p class="venue">Computer Graphics Forum (<b>TOG</b>) - Proceedings of Pacific Graphics 2024</p>
       <p>
-          https://lordliang.github.io/DrawingSpinUp/
         <a href="https://lordliang.github.io/DrawingSpinUp/">[Project Page]</a>
       </p>
     </div>
