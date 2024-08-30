@@ -14,7 +14,7 @@ author_profile: true
     <div>
       <p class="title">DrawingSpinUp: 3D Animation from Single Character Drawings.</p>
       <p>Jie Zhou, <b>Chufeng Xiao</b>, Miu-Ling Lam, and Hongbo Fu</p>
-      <p class="venue">Computer Graphics Forum (<b>TOG</b>) - Proceedings of Pacific Graphics 2024</p>
+      <p class="venue">Proceedings of SIGGRAPH Asia 2024</p>
       <p>
         <a href="https://lordliang.github.io/DrawingSpinUp/">[Project Page]</a>
       </p>
@@ -26,7 +26,7 @@ author_profile: true
     <div>
       <p class="title">CustomSketching: Sketch concept extraction for sketch-based image synthesis and editing</p>
       <p><b>Chufeng Xiao</b> and Hongbo Fu</p>
-      <p class="venue">Computer Graphics Forum (<b>TOG</b>) - Proceedings of Pacific Graphics 2024</p>
+      <p class="venue">Computer Graphics Forum (<b>CGF</b>) - Proceedings of Pacific Graphics 2024</p>
       <p>
         <a href="https://arxiv.org/abs/2402.17624">[Paper]</a>
       </p>
