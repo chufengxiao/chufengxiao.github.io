@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a Ph.D. student at School of Creative Media, City University of Hong Kong (CityU), supervised by [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/). 
-Prior to this, I obtained my B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Shengfeng He](http://www.shengfenghe.com/).
+Hi, I am currently a Post-doctoral Fellow at Hong Kong University of Science and Technology, under the guidance of Prof. Wenhan Luo. Prior to this, I obtained my Ph.D. degree from School of Creative Media, City University of Hong Kong (CityU), supervised by [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/) in June 2024, and B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Shengfeng He](http://www.shengfenghe.com/).
 
 My research interests include **Computer Graphics** (CG) and **Human-computer Interaction** (HCI). Specifically, I mainly focus on **controllable AIGC**, striving to create an interactive CG system for content generation and manipulation, which can be controlled by users. My research has been featured in top-tier conferences and journals, including *SIGGRAPH (Asia), ACM TOG, IEEE TVCG, ACM CHI, IEEE TMM, CGF,* etc. Recently, my research works include sketch-based image synthesis and editing, and sketch-based 3D reconstruction. Please refer to my [publication page](https://chufengxiao.github.io/publications/) for more details. 
 
 I am open to discussing any research ideas, collaborations, and job opportunities! You may reach me at \
 ✉️ Email: chufengxiao[at]outlook[dot]com \
-🏤 Address: Level 6, Run Run Shaw Creative Media Centre, 18 Tat Hong Avenue, Kowloon, Hong Kong
+🏤 Address: Floor 7, LSK, HKUST, Hong Kong
 
 🎉 News
 ------
+* [07/2024] One paper [DrawingSpinUp](https://lordliang.github.io/DrawingSpinUp/) was accepted by **SIGGRAPH Asia 2024**.
+* [07/2024] Our paper [CustomSketching](https://arxiv.org/abs/2402.17624) was accepted by **Pacific Graphics 2024** and will be published in **Computer Graphics Forum**.
+* [06/2024] Started my post-doc at HKUST!
+* [05/2024] I successfully defended my Ph.D. thesis: [Sketch-based 2D & 3D Content Generation with Generative Models](https://scholars.cityu.edu.hk/en/theses/sketchbased-2d--3d-content-generation-with-generative-models(4024a0c3-bc6a-4195-9070-523a758d6e03).html).
 * [12/2023] One paper [Sketch2Stress](https://dengyuhk.github.io/Sketch2Stress/) was accepted by **IEEE TVCG**.
 * [09/2023] I was awarded "Outstanding Academic Performance Award 2023" from CityU.
 * [01/2023] One paper [ProObjAR](https://sweb.cityu.edu.hk/hongbofu/doc/ProObjAR_CHI2023.pdf) was accepted by **CHI 2023**.
