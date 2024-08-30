@@ -9,7 +9,7 @@ author_profile: true
 
 - **Hong Kong University of Science and Technology** \
 Post-doctoral Fellow (Jul. 2024 - Present) \
-Advisor: Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo)
+Advisor: [Prof. Wenhan Luo](https://whluo.github.io/) and [Prof. Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo)
 
 - **School of Creative Media, City University of Hong Kong** \
 Research Assistant (Sep. 2023 - Jun. 2024) \
