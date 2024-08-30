@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+- **Hong Kong University of Science and Technology** \
+Post-doctoral Fellow (Jul. 2024 - Present) \
+Advisor: [Prof. Wenhan Luo](https://whluo.github.io/)
 
-* **School of Creative Media, City University of Hong Kong** \
-Research Assistant (Sep. 2023 \- Present) \
+- **School of Creative Media, City University of Hong Kong** \
+Research Assistant (Sep. 2023 - Jun. 2024) \
 Advisor: [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
   
 - **[Intelligent Graphic Computing Laboratory (IGCL)](http://igcl.pku.edu.cn/igcl/), WICT, Peking University** \
