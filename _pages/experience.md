@@ -13,7 +13,7 @@ Advisor: [Prof. Wenhan Luo](https://whluo.github.io/) and [Prof. Yike Guo](https
 
 - **School of Creative Media, City University of Hong Kong** \
 Research Assistant (Sep. 2023 - Jun. 2024) \
-Advisor: [Prof. Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/)
+Advisor: [Prof. Hongbo Fu](https://hongbofu.people.ust.hk)
   
 - **[Intelligent Graphic Computing Laboratory (IGCL)](http://igcl.pku.edu.cn/igcl/), WICT, Peking University** \
   Visiting Student (Apr. 2022 - Jul. 2022) \
