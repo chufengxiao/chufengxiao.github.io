@@ -17,6 +17,7 @@ author_profile: true
       <p class="venue">Proceedings of SIGGRAPH Asia 2024</p>
       <p>
         <a href="https://lordliang.github.io/DrawingSpinUp/">[Project Page]</a>
+        <a href="https://github.com/LordLiang/DrawingSpinUp">[Code]</a>
       </p>
     </div>
 </div>
