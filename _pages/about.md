@@ -11,7 +11,7 @@ Hi, I am currently a researcher at Huawei Noah’s Ark Lab, Huawei Hong Kong Res
 
 My research interests include **Computer Graphics** (CG) and **Human-computer Interaction** (HCI). Specifically, I mainly focus on **controllable AIGC**, striving to create an interactive CG system for content generation and manipulation, which can be controlled by users. My research has been featured in top-tier conferences and journals, including *SIGGRAPH (Asia), ACM TOG, IEEE TVCG, ACM CHI, IEEE TMM, CGF,* etc. Recently, my research works include sketch-based image synthesis and editing, and sketch-based 3D reconstruction. Please refer to my [publication page](https://chufengxiao.github.io/publications/) for more details. 
 
-<font color="red">Our team at Huawei HKRC is dedicated to advancing research in **Multimodal Generative Models** and **AI Agents**. We are actively seeking experienced full-time researchers and interns to join us. If you're interested, feel free to reach out via via </font>\
+<font color="red">Our team at Huawei HKRC is dedicated to advancing research in <span style="font-weight:bold;">Multimodal Generative Models</span> and <span style="font-weight:bold;">AI Agents</span>. We are actively seeking experienced full-time researchers and interns to join us. If you're interested, feel free to reach out via via </font>\
 ✉️ Email: chufengxiao[at]outlook[dot]com
 
 🎉 News
