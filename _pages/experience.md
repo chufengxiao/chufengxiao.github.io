@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wrok Experience"
+title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 - **Hong Kong University of Science and Technology** \
-Post-doctoral Fellow (Jul. 2024 - Present) \
+Post-doctoral Fellow (Jul. 2024 - Feb. 2025) \
 Advisor: [Prof. Wenhan Luo](https://whluo.github.io/) and [Prof. Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo)
 
 - **School of Creative Media, City University of Hong Kong** \
