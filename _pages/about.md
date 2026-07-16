@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chufeng Xiao. I obtained my Ph.D. degree from School of Creative Media, City University of Hong Kong (CityU), supervised by [Prof. Hongbo Fu](https://hongbofu.people.ust.hk/) in June 2024, and B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Shengfeng He](http://www.shengfenghe.com/). I was lucky to work with [Prof. Wenhan Luo](https://whluo.github.io/) and [Prof. Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo) as a Post-doctoral Fellow at Hong Kong University of Science and Technology (HKUST).
+Hi, I am Chufeng Xiao. I am currently a Senior Researcher at Artificial Intelligence Laboratory (Leibniz), Huawei. Before that, I obtained my Ph.D. degree from School of Creative Media, City University of Hong Kong (CityU), supervised by [Prof. Hongbo Fu](https://hongbofu.people.ust.hk/) in June 2024, and B.E. degree from School of Computer Science and Engineering, South China University of Technology (SCUT), in June 2019, supervised by [Prof. Shengfeng He](http://www.shengfenghe.com/). I was lucky to work with [Prof. Wenhan Luo](https://whluo.github.io/) and [Prof. Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo) as a Post-doctoral Fellow at Hong Kong University of Science and Technology (HKUST).
 
-My research interests include **Computer Graphics** (CG) and **Human-computer Interaction** (HCI). Specifically, I mainly focus on **controllable AIGC**, striving to create an interactive CG system for content generation and manipulation, which can be controlled by users. My research has been featured in top-tier conferences and journals, including *SIGGRAPH (Asia), ACM TOG, IEEE TVCG, ACM CHI, IEEE TMM, CGF,* etc. Recently, my research works include sketch-based image synthesis and editing, and sketch-based 3D reconstruction. Please refer to my [publication page](https://chufengxiao.github.io/publications/) for more details. 
+My research interests fall into unified multimodal generative models. Specifically, I mainly focus on **controllable AIGC**, striving to create an interactive system for content generation and manipulation given multi-modal inputs, which can be controlled by users. During my Ph.D., my research spanned **Computer Graphics (CG)** and **Human-Computer Interaction (HCI)**. This work has led to multiple publications in top-tier journals and conferences (such as ACM TOG [SIGGRAPH/SIGGRAPH Asia], IEEE TVCG, and ACM CHI), focusing on sketch-based image synthesis, editing, and 3D reconstruction. Please refer to my [publication page](https://chufengxiao.github.io/publications/) for more details. 
 
 ✉️ Email: chufengxiao[at]outlook[dot]com
 
 🎉 News
 ------
+* [07/2026] **[Boogu-Image-0.1](https://boogu.org/)**, a unified image generation and editing model family, has been released! I am honored to serve as a core contributor to this project.
+* [03/2026] One paper [MoGraphGPT](https://youtu.be/fkAuXfsi8p0) on LLM-powered creation of interactive scenes is accepted by **IEEE TVCG** and is featured by **[机器之心](https://mp.weixin.qq.com/s/objKgAzNOX8RWX4GUcpwEQ)**.
+* [02/2025] Joined the Artificial Intelligence Laboratory (Leibniz), Huawei, as a Senior Researcher focusing on unified multimodal generation.
+* [12/2024] One paper [PartHOI](https://ieeexplore.ieee.org/document/11538341) is accepted by **Computational Visual Media Journal**.
 * [07/2024] One paper [DrawingSpinUp](https://lordliang.github.io/DrawingSpinUp/) was accepted by **SIGGRAPH Asia 2024**.
 * [07/2024] Our paper [CustomSketching](https://arxiv.org/abs/2402.17624) was accepted by **Pacific Graphics 2024** and will be published in **Computer Graphics Forum**.
 * [06/2024] Started my post-doc at HKUST!
