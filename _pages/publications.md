@@ -10,6 +10,20 @@ author_profile: true
 \* indicates equal contribution.
 
 <div class="pub">
+    <img src="/images/mographgpt.png">
+    <div>
+      <p class="title">MoGraphGPT: Creating Interactive Scenes Using Modular LLM and Graphical Control</p>
+      <p>Hui Ye, <b>Chufeng Xiao</b>, Jiaye Leng, Pengfei Xu, and Hongbo Fu</p>
+      <p class="venue">IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026</p>
+      <p>
+        <a href="https://huiye19.github.io/documents/TVCG2026_MoGraphGPT(Final).pdf">[PDF]</a>
+        <a href="https://youtu.be/fkAuXfsi8p0">[Video]</a>
+        <a href="https://mp.weixin.qq.com/s/objKgAzNOX8RWX4GUcpwEQ">[机器之心]</a>
+      </p>
+    </div>
+</div>
+
+<div class="pub">
     <img src="/images/drawingspinup.png">
     <div>
       <p class="title">DrawingSpinUp: 3D Animation from Single Character Drawings.</p>
